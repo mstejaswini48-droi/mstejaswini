@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Table</title>
+</head>
+<body>
+
+    <h2>Employee Details</h2>
+
+    <table border="1">
+        <caption><h1></h1>Employee Information</h1></caption>
+
+        <tr>
+            <th>Employee ID</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Designation</th>
+            <th>Salary</th>
+            <th>Phone Number</th>
+            <th>Email Address</th>
+        </tr>
+
+        <tr>
+            <td>101</td>
+            <td>Rahul</td>
+            <td>IT</td>
+            <td>Developer</td>
+            <td>30000</td>
+            <td>9000000001</td>
+            <td>rahul@example.com</td>
+        </tr>
+
+        <tr>
+            <td>102</td>
+            <td>Priya</td>
+            <td>HR</td>
+            <td>Manager</td>
+            <td>40000</td>
+            <td>9000000002</td>
+            <td>priya@example.com</td>
+        </tr>
+
+        <tr>
+            <td>103</td>
+            <td>Arun</td>
+            <td>Finance</td>
+            <td>Accountant</td>
+            <td>35000</td>
+            <td>9000000003</td>
+            <td>arun@example.com</td>
+        </tr>
+
+        <tr>
+            <td>104</td>
+            <td>Divya</td>
+            <td>Marketing</td>
+            <td>Executive</td>
+            <td>28000</td>
+            <td>9000000004</td>
+            <td>divya@example.com</td>
+        </tr>
+
+        <tr>
+            <td>105</td>
+            <td>Kiran</td>
+            <td>IT</td>
+            <td>Tester</td>
+            <td>32000</td>
+            <td>9000000005</td>
+            <td>kiran@example.com</td>
+        </tr>
+
+        <tr>
+            <td>106</td>
+            <td>Anjali</td>
+            <td>HR</td>
+            <td>Recruiter</td>
+            <td>27000</td>
+            <td>9000000006</td>
+            <td>anjali@example.com</td>
+        </tr>
+
+        <tr>
+            <td>107</td>
+            <td>Vijay</td>
+            <td>Sales</td>
+            <td>Sales Executive</td>
+            <td>29000</td>
+            <td>9000000007</td>
+            <td>vijay@example.com</td>
+        </tr>
+
+        <tr>
+            <td>108</td>
+            <td>Meena</td>
+            <td>Finance</td>
+            <td>Financial Analyst</td>
+            <td>38000</td>
+            <td>9000000008</td>
+            <td>meena@example.com</td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
